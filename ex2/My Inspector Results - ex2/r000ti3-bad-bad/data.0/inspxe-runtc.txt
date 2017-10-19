@@ -1,0 +1,20 @@
+
+=== Start: [2017/10/20 00:41:34] === 
+Analysis started...
+Result file: c:\Users\Zavesa\documents\visual studio 2015\Projects\ex2\ex2\My Inspector Results - ex2\r000ti3\r000ti3.inspxe 
+Found target process c:\users\zavesa\documents\visual studio 2015\projects\ex2\release\ex2.exe (PID = 7180). Analysis started... 
+Loaded module: c:\users\zavesa\documents\visual studio 2015\projects\ex2\release\ex2.exe. 
+Loaded module: c:\windows\syswow64\kernelbase.dll. 
+Loaded module: c:\windows\syswow64\kernel32.dll. 
+Loaded module: c:\windows\syswow64\ntdll.dll. 
+Loaded module: c:\windows\syswow64\ucrtbase.dll. 
+Loaded module: c:\windows\syswow64\vcruntime140.dll. 
+Loaded module: c:\windows\syswow64\msvcp140.dll. 
+Loaded module: c:\program files (x86)\intelswtools\compilers_and_libraries_2017.4.210\windows\redist\ia32_win\compiler\cilkrts20.dll. 
+Loaded module: c:\windows\syswow64\user32.dll. 
+Loaded module: c:\windows\syswow64\win32u.dll. 
+Loaded module: c:\windows\syswow64\gdi32.dll. 
+Loaded module: c:\windows\syswow64\gdi32full.dll. 
+Warning: Inspector does not support the Microsoft Parallel Patterns Library and may report false positives. Refer to the product release notes. 
+Loaded module: c:\windows\syswow64\imm32.dll. 
+Loaded module: c:\program files (x86)\intelswtools\inspector 2017\bin32\runtime\libittnotify.dll. 
